@@ -15,3 +15,4 @@ It has all the basics of a turn based tactics game, including the ability to mov
 LMB - Select units/options  
 A, D - Rotate left and right  
 R - Reset  
+F4 - Fullscreen  
