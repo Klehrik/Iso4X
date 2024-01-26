@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_Slash","order":5,"path":"sprites/spr_Slash/spr_Slash.yy",},
+    {"name":"obj_Options","order":1,"path":"objects/obj_Options/obj_Options.yy",},
+    {"name":"obj_Unit","order":2,"path":"objects/obj_Unit/obj_Unit.yy",},
+    {"name":"spr_UnitRed","order":1,"path":"sprites/spr_UnitRed/spr_UnitRed.yy",},
+    {"name":"spr_Structure","order":2,"path":"sprites/spr_Structure/spr_Structure.yy",},
+    {"name":"point_in_polygon","order":1,"path":"scripts/point_in_polygon/point_in_polygon.yy",},
+    {"name":"obj_GridTile","order":1,"path":"objects/obj_GridTile/obj_GridTile.yy",},
+    {"name":"Structures","order":1,"path":"scripts/Structures/Structures.yy",},
+    {"name":"spr_Arrow","order":4,"path":"sprites/spr_Arrow/spr_Arrow.yy",},
+    {"name":"spr_HealthPips","order":3,"path":"sprites/spr_HealthPips/spr_HealthPips.yy",},
+    {"name":"obj_Structure","order":3,"path":"objects/obj_Structure/obj_Structure.yy",},
+  ],
+}

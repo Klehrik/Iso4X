@@ -1,0 +1,37 @@
+Idea Log
+
+----------
+
+[opened feb 28, ???]
+Only way i know that allows for 100% accurate perspective is to assign a 3d coord to every element and "raycast" to the camera pos
+then draw in order of descending distance
+
+[closed feb 28, 2:21 pm]
+nvm did some weird bandaid shit instead but it works
+basically just set the RotPosY of tiles to their top point when drawing
+
+----------
+
+[opened feb 28, 4:31 pm]
+ok ok for height curve just modify a copy of Height instead and lerp that
+way easier and looks more accurate
+in pipeline_draw use the modified Height (that can be decimal values) instead of actual tile height
+
+[closed feb 28, 4:46 pm]
+lmao shit idea didnt really work but at the same time it did??
+its slightly better now
+slightly
+
+----------
+
+[opened mar 1, 1:18 pm]
+make option menus an obj as well (obj_Menu) and do some kind of hierarchy system for it
+not sure on the specifics yet
+
+[closed mar 1, 5:?? pm]
+finished basic options
+
+----------
+
+[update mar 1, 11:02 pm]
+added attack tile display (ported from pico8 tactics)
