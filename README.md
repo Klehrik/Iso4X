@@ -6,7 +6,7 @@ Originally created in **February/March 2022**.
 
 
 This project is an extension of the [pseudo-3D isometric renderer](https://github.com/Klehrik/Isometric-Grid) I wrote 5-6 months prior.  
-It has all the basics of a turn based tactics game, including the ability to move units around and have them attack other units, although it never got passed this stage before I stopped development.
+It has all the basics of a turn based tactics game, including the ability to move units around and have them attack other units, although it never got passed this stage before I stopped development (who knew my fake 3D rendering could be so funny to work with??????? hahaaaaaaaa).
 
 ---
 
